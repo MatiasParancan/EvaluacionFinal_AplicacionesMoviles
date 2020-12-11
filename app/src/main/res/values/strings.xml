@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Clínica del PC</string>
+
+    <string name="main_ingresarEquipo">Ingresar Equipo</string>
+    <string name="main_detalleEquipo">Detalle Equipo</string>
+    <string name="main_eliminarEquipo">Eliminar Equipo</string>
+
+    <string name="ingresarEquipo_id">Id</string>
+    <string name="ingresarEquipo_marca">Marca</string>
+    <string name="ingresarEquipo_modelo">Modelo</string>
+    <string name="ingresarEquipo_ram">RAM</string>
+    <string name="ingresarEquipo_SO">Sistema Operativo</string>
+    <string name="ingresarEquipo_RUT">RUT del dueño</string>
+    <string name="ingresarEquipo_estado">Estado</string>
+    <string name="ingresarEquipo_requerimiento">Requerimiento</string>
+    <string name="ingresarEquipo_consultar">Consultar</string>
+
+    <string name="login_iniciarSesion">Iniciar Sesión</string>
+    <string name="login_correo">Correo</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_ingresar">Ingresar</string>
+
+    <string name="detalle_cambiarEstado">Cambiar Estado</string>
+
+    <string name="cambiarEstado_comentario">Comentario</string>
+    <string name="detalle_consultarEquipo">Consultar Equipo</string>
+
+    <string-array name="estado">
+        <item>En reparación</item>
+        <item>Reparado</item>
+        <item>Entregado</item>
+    </string-array>
+</resources>
